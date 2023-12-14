@@ -1,3 +1,3 @@
 def main():
-  pass
+  return "run this file"
 main()
